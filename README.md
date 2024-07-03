@@ -1,12 +1,12 @@
-# ProyectoNode
-- Nombre: Nathalia Estefanía Cóndor Flores
-- Correo: natis.nti@gmail.com
+Issis Beltrán - Proyecto 9 - Node.js
 
-# Proyecto de Autenticación y Gestión de Usuarios
+
+
+Proyecto de Autenticación y Gestión de Usuarios
 
 Este proyecto proporciona una API para la autenticación de usuarios, gestión de sesiones y operaciones CRUD básicas para usuarios en una base de datos MongoDB. Utiliza Node.js con Express como framework web y Mongoose como ODM para interactuar con la base de datos MongoDB.
 
-## Estructura del Proyecto
+ Estructura del Proyecto
 
 El proyecto está estructurado en varias carpetas y archivos:
 
@@ -18,7 +18,7 @@ El proyecto está estructurado en varias carpetas y archivos:
 - **routes**: Contiene las definiciones de las rutas de la API.
 - **services**: Contiene lógica de servicio para tareas específicas.
 
-## Uso de la API
+Uso de la API
 
 La API está disponible en la siguiente URL:
 
